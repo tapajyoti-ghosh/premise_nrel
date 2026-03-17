@@ -1,0 +1,247 @@
+Total unique variables: 244
+============================================================
+
+Carbon Sequestration|Direct Air Capture|Solvent
+Carbon Sequestration|Direct Air Capture|Sorbent
+Distance|Transport|Freight|Rail|Freight Rail|BEV
+Distance|Transport|Freight|Rail|Freight Rail|Coal
+Distance|Transport|Freight|Rail|Freight Rail|Electric
+Distance|Transport|Freight|Rail|Freight Rail|FCEV
+Distance|Transport|Freight|Rail|Freight Rail|Hybrid Liquids
+Distance|Transport|Freight|Rail|Freight Rail|Liquids
+Distance|Transport|Freight|Road|2W and 3W|BEV
+Distance|Transport|Freight|Road|2W and 3W|LA-BEV
+Distance|Transport|Freight|Road|2W and 3W|Liquids
+Distance|Transport|Freight|Road|2W and 3W|NG
+Distance|Transport|Freight|Road|Heavy truck|BEV
+Distance|Transport|Freight|Road|Heavy truck|FCEV
+Distance|Transport|Freight|Road|Heavy truck|Hybrid Liquids
+Distance|Transport|Freight|Road|Heavy truck|Liquids
+Distance|Transport|Freight|Road|Light truck|BEV
+Distance|Transport|Freight|Road|Light truck|FCEV
+Distance|Transport|Freight|Road|Light truck|Hybrid Liquids
+Distance|Transport|Freight|Road|Light truck|Liquids
+Distance|Transport|Freight|Road|Light truck|NG
+Distance|Transport|Freight|Road|Medium truck|BEV
+Distance|Transport|Freight|Road|Medium truck|FCEV
+Distance|Transport|Freight|Road|Medium truck|Hybrid Liquids
+Distance|Transport|Freight|Road|Medium truck|Liquids
+Distance|Transport|Freight|Sea|Domestic Ship|BEV
+Distance|Transport|Freight|Sea|Domestic Ship|FCEV
+Distance|Transport|Freight|Sea|Domestic Ship|Hybrid Liquids
+Distance|Transport|Freight|Sea|Domestic Ship|Liquids
+Distance|Transport|Freight|Sea|International Ship|BEV
+Distance|Transport|Freight|Sea|International Ship|FCEV
+Distance|Transport|Freight|Sea|International Ship|Hybrid Liquids
+Distance|Transport|Freight|Sea|International Ship|Liquids
+Distance|Transport|Pass|Road|2W and 3W|BEV
+Distance|Transport|Pass|Road|2W and 3W|LA-BEV
+Distance|Transport|Pass|Road|2W and 3W|Liquids
+Distance|Transport|Pass|Road|2W and 3W|NG
+Distance|Transport|Pass|Road|Bus|BEV
+Distance|Transport|Pass|Road|Bus|FCEV
+Distance|Transport|Pass|Road|Bus|Hybrid Liquids
+Distance|Transport|Pass|Road|Bus|Liquids
+Distance|Transport|Pass|Road|Bus|NG
+Distance|Transport|Pass|Road|LDV|Car|BEV
+Distance|Transport|Pass|Road|LDV|Car|FCEV
+Distance|Transport|Pass|Road|LDV|Car|Hybrid Liquids
+Distance|Transport|Pass|Road|LDV|Car|Liquids
+Distance|Transport|Pass|Road|LDV|Car|NG
+Distance|Transport|Pass|Road|LDV|Large Car and Truck|BEV
+Distance|Transport|Pass|Road|LDV|Large Car and Truck|FCEV
+Distance|Transport|Pass|Road|LDV|Large Car and Truck|Hybrid Liquids
+Distance|Transport|Pass|Road|LDV|Large Car and Truck|Liquids
+Distance|Transport|Pass|Road|LDV|Large Car and Truck|NG
+Distance|Transport|Pass|Road|LDV|Mini Car|BEV
+Distance|Transport|Pass|Road|LDV|Mini Car|FCEV
+Distance|Transport|Pass|Road|LDV|Mini Car|Hybrid Liquids
+Distance|Transport|Pass|Road|LDV|Mini Car|Liquids
+Distance|Transport|Pass|Road|LDV|Mini Car|NG
+Efficiency|Electricity|Biomass CHP
+Efficiency|Electricity|Biomass CHP CCS
+Efficiency|Electricity|Biomass IGCC
+Efficiency|Electricity|Biomass IGCC CCS
+Efficiency|Electricity|Coal IGCC
+Efficiency|Electricity|Coal IGCC CCS
+Efficiency|Electricity|Coal PC
+Efficiency|Electricity|Coal PC CCS
+Efficiency|Electricity|Gas CC
+Efficiency|Electricity|Gas CC CCS
+Efficiency|Electricity|Gas ST
+Efficiency|Electricity|Geothermal
+Efficiency|Electricity|Nuclear
+Efficiency|Electricity|Nuclear EPR
+Efficiency|Electricity|Oil CC
+Efficiency|Electricity|Oil CC CCS
+Efficiency|Electricity|Oil ST
+Efficiency|Electricity|Solar CSP
+Efficiency|Electricity|Solar PV Centralized
+Efficiency|Electricity|Solar PV Residential
+Efficiency|Electricity|Wind Offshore
+Efficiency|Electricity|Wind Onshore
+Efficiency|Hydrogen|Biomass
+Efficiency|Hydrogen|Biomass CCS
+Efficiency|Hydrogen|Coal CCS
+Efficiency|Hydrogen|Electrolysis
+Efficiency|Hydrogen|Gas
+Emission Factor|CO2|Land Use Change|Average|Biomass|Grass
+Emission Factor|CO2|Land Use Change|Average|Biomass|Maize
+Emission Factor|CO2|Land Use Change|Average|Biomass|Oilcrops
+Emission Factor|CO2|Land Use Change|Average|Biomass|Sugar
+Emission Factor|CO2|Land Use Change|Average|Biomass|Wood
+Emissions|CO2
+Final Energy|Carbon Management|Direct Air Capture|Solvent
+Final Energy|Carbon Management|Direct Air Capture|Sorbent
+Final Energy|Heat|Buildings|Biomass
+Final Energy|Heat|Buildings|Coal
+Final Energy|Heat|Buildings|District Heat
+Final Energy|Heat|Buildings|Electricity
+Final Energy|Heat|Buildings|Gas
+Final Energy|Heat|Buildings|Hydrogen
+Final Energy|Heat|Buildings|Oil
+Final Energy|Heat|Industry|Biomass
+Final Energy|Heat|Industry|Coal
+Final Energy|Heat|Industry|District Heat
+Final Energy|Heat|Industry|Electricity
+Final Energy|Heat|Industry|Gas
+Final Energy|Heat|Industry|Hydrogen
+Final Energy|Heat|Industry|Oil
+Final Energy|Heat|Industry|Solar
+Final Energy|Industry|Cement|Biomass
+Final Energy|Industry|Cement|Cement CCS|Biomass
+Final Energy|Industry|Cement|Cement CCS|Coal
+Final Energy|Industry|Cement|Cement CCS|Electricity
+Final Energy|Industry|Cement|Cement CCS|Gas
+Final Energy|Industry|Cement|Cement CCS|Refined Liquids
+Final Energy|Industry|Cement|Cement|Biomass
+Final Energy|Industry|Cement|Cement|Coal
+Final Energy|Industry|Cement|Cement|Electricity
+Final Energy|Industry|Cement|Cement|Gas
+Final Energy|Industry|Cement|Cement|Refined Liquids
+Final Energy|Industry|Cement|Coal
+Final Energy|Industry|Cement|Electricity
+Final Energy|Industry|Cement|Gas
+Final Energy|Industry|Cement|Refined Liquids
+Final Energy|Industry|Cement|biomass|Biomass
+Final Energy|Industry|Cement|cement CCS|Electricity
+Final Energy|Industry|Cement|cement|Electricity
+Final Energy|Industry|Cement|coal|Coal
+Final Energy|Industry|Cement|gas|Gas
+Final Energy|Industry|Cement|refined liquids|Refined Liquids
+Final Energy|Industry|Steel|Primary|Biomass
+Final Energy|Industry|Steel|Primary|Coal
+Final Energy|Industry|Steel|Primary|Electricity
+Final Energy|Industry|Steel|Primary|Gas
+Final Energy|Industry|Steel|Primary|H2 industrial
+Final Energy|Industry|Steel|Primary|Refined Liquids
+Final Energy|Industry|Steel|Secondary|Coal
+Final Energy|Industry|Steel|Secondary|Electricity
+Final Energy|Industry|Steel|Secondary|Gas
+Final Energy|Industry|Steel|Secondary|H2 industrial
+Final Energy|Industry|Steel|Secondary|Refined Liquids
+Final Energy|Transport|Freight|Rail|Freight Rail|BEV
+Final Energy|Transport|Freight|Rail|Freight Rail|Coal
+Final Energy|Transport|Freight|Rail|Freight Rail|Electric
+Final Energy|Transport|Freight|Rail|Freight Rail|FCEV
+Final Energy|Transport|Freight|Rail|Freight Rail|Hybrid Liquids
+Final Energy|Transport|Freight|Rail|Freight Rail|Liquids
+Final Energy|Transport|Freight|Road|2W and 3W|BEV
+Final Energy|Transport|Freight|Road|2W and 3W|LA-BEV
+Final Energy|Transport|Freight|Road|2W and 3W|Liquids
+Final Energy|Transport|Freight|Road|2W and 3W|NG
+Final Energy|Transport|Freight|Road|Heavy truck|BEV
+Final Energy|Transport|Freight|Road|Heavy truck|FCEV
+Final Energy|Transport|Freight|Road|Heavy truck|Hybrid Liquids
+Final Energy|Transport|Freight|Road|Heavy truck|Liquids
+Final Energy|Transport|Freight|Road|Light truck|BEV
+Final Energy|Transport|Freight|Road|Light truck|FCEV
+Final Energy|Transport|Freight|Road|Light truck|Hybrid Liquids
+Final Energy|Transport|Freight|Road|Light truck|Liquids
+Final Energy|Transport|Freight|Road|Light truck|NG
+Final Energy|Transport|Freight|Road|Medium truck|BEV
+Final Energy|Transport|Freight|Road|Medium truck|FCEV
+Final Energy|Transport|Freight|Road|Medium truck|Hybrid Liquids
+Final Energy|Transport|Freight|Road|Medium truck|Liquids
+Final Energy|Transport|Freight|Sea|Domestic Ship|BEV
+Final Energy|Transport|Freight|Sea|Domestic Ship|FCEV
+Final Energy|Transport|Freight|Sea|Domestic Ship|Hybrid Liquids
+Final Energy|Transport|Freight|Sea|Domestic Ship|Liquids
+Final Energy|Transport|Freight|Sea|International Ship|BEV
+Final Energy|Transport|Freight|Sea|International Ship|FCEV
+Final Energy|Transport|Freight|Sea|International Ship|Hybrid Liquids
+Final Energy|Transport|Freight|Sea|International Ship|Liquids
+Final Energy|Transport|Pass|Road|2W and 3W|BEV
+Final Energy|Transport|Pass|Road|2W and 3W|LA-BEV
+Final Energy|Transport|Pass|Road|2W and 3W|Liquids
+Final Energy|Transport|Pass|Road|2W and 3W|NG
+Final Energy|Transport|Pass|Road|Bus|BEV
+Final Energy|Transport|Pass|Road|Bus|FCEV
+Final Energy|Transport|Pass|Road|Bus|Hybrid Liquids
+Final Energy|Transport|Pass|Road|Bus|Liquids
+Final Energy|Transport|Pass|Road|Bus|NG
+Final Energy|Transport|Pass|Road|LDV|Car|BEV
+Final Energy|Transport|Pass|Road|LDV|Car|FCEV
+Final Energy|Transport|Pass|Road|LDV|Car|Hybrid Liquids
+Final Energy|Transport|Pass|Road|LDV|Car|Liquids
+Final Energy|Transport|Pass|Road|LDV|Car|NG
+Final Energy|Transport|Pass|Road|LDV|Large Car and Truck|BEV
+Final Energy|Transport|Pass|Road|LDV|Large Car and Truck|FCEV
+Final Energy|Transport|Pass|Road|LDV|Large Car and Truck|Hybrid Liquids
+Final Energy|Transport|Pass|Road|LDV|Large Car and Truck|Liquids
+Final Energy|Transport|Pass|Road|LDV|Large Car and Truck|NG
+Final Energy|Transport|Pass|Road|LDV|Mini Car|BEV
+Final Energy|Transport|Pass|Road|LDV|Mini Car|FCEV
+Final Energy|Transport|Pass|Road|LDV|Mini Car|Hybrid Liquids
+Final Energy|Transport|Pass|Road|LDV|Mini Car|Liquids
+Final Energy|Transport|Pass|Road|LDV|Mini Car|NG
+GDP|PPP
+Land Use|Average|Biomass|Grass
+Land Use|Average|Biomass|Maize
+Land Use|Average|Biomass|Oilcrops
+Land Use|Average|Biomass|Sugar
+Land Use|Average|Biomass|Wood
+Population
+Production|Energy|Biomass|Energy Crops
+Production|Energy|Biomass|Residues
+Production|Industry|Cement|Cement
+Production|Industry|Cement|Cement CCS
+Production|Industry|Steel|Primary|BLASTFUR
+Production|Industry|Steel|Primary|BLASTFUR CCS
+Production|Industry|Steel|Primary|BLASTFUR with hydrogen
+Production|Industry|Steel|Primary|Biomass-based
+Production|Industry|Steel|Secondary|EAF with DRI
+Production|Industry|Steel|Secondary|EAF with DRI CCS
+Production|Industry|Steel|Secondary|EAF with scrap
+Production|Industry|Steel|Secondary|Hydrogen-based DRI
+Secondary Energy|Electricity|Biomass CHP
+Secondary Energy|Electricity|Biomass CHP CCS
+Secondary Energy|Electricity|Biomass IGCC
+Secondary Energy|Electricity|Biomass IGCC CCS
+Secondary Energy|Electricity|Coal IGCC
+Secondary Energy|Electricity|Coal IGCC CCS
+Secondary Energy|Electricity|Coal PC
+Secondary Energy|Electricity|Coal PC CCS
+Secondary Energy|Electricity|Gas CC
+Secondary Energy|Electricity|Gas CC CCS
+Secondary Energy|Electricity|Gas ST
+Secondary Energy|Electricity|Geothermal
+Secondary Energy|Electricity|Hydro
+Secondary Energy|Electricity|Nuclear
+Secondary Energy|Electricity|Nuclear EPR
+Secondary Energy|Electricity|Oil CC
+Secondary Energy|Electricity|Oil CC CCS
+Secondary Energy|Electricity|Oil ST
+Secondary Energy|Electricity|Solar CSP
+Secondary Energy|Electricity|Solar PV Centralized
+Secondary Energy|Electricity|Solar PV Residential
+Secondary Energy|Electricity|Wind Offshore
+Secondary Energy|Electricity|Wind Onshore
+Secondary Energy|Production|Hydrogen|Biomass
+Secondary Energy|Production|Hydrogen|Biomass CCS
+Secondary Energy|Production|Hydrogen|Coal CCS
+Secondary Energy|Production|Hydrogen|Electrolysis
+Secondary Energy|Production|Hydrogen|Gas
+Secondary Energy|Production|Natural Gas|Gas
+Secondary Energy|Production|Refined Liquids|Oil
+Temperature|Global Mean
